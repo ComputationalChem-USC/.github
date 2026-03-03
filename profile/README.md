@@ -34,8 +34,13 @@ Our group develops and applies cutting-edge theoretical and computational tools 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Quantum Chemistry:** Gaussian, ORCA, Molpro, CFOUR  
-**Molecular Dynamics & Kinetics:** AutoMeKin, VENUS, POLYRATE  
+![Gaussian](https://img.shields.io/badge/Gaussian-004C99?style=flat)
+![ORCA](https://img.shields.io/badge/ORCA-5C2D91?style=flat)
+![Molpro](https://img.shields.io/badge/Molpro-006699?style=flat)
+![MOPAC](https://img.shields.io/badge/MOPAC-008000?style=flat)
+
+**Quantum Chemistry:** Gaussian, ORCA, Molpro, Mopac  
+**Molecular Dynamics & Kinetics:** AutoMeKin 
 **ML / Data Science:** scikit-learn, PyTorch, SchNet, NequIP
 
 ---

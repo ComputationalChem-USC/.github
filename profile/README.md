@@ -1,12 +1,30 @@
-# 🧪 Theoretical & Computational Chemistry — USC
+<p align="center">
+  <img src="image.png" alt="QTEC Cover" width="100%">
+</p>
 
-> **Department of Physical Chemistry · Faculty of Chemistry · University of Santiago de Compostela, Spain**
+<h1 align="center">🧪 Theoretical & Computational Chemistry — USC</h1>
+
+<p align="center">
+  <img src="logoQTEC1.png" alt="QTEC Logo" width="180">
+  &nbsp;&nbsp;&nbsp;
+  <img src="usc.png" alt="USC Logo" width="180">
+</p>
+
+<p align="center">
+  <strong>Department of Physical Chemistry · Faculty of Chemistry · 
+  <a href="https://www.usc.es">University of Santiago de Compostela</a>, Spain</strong>
+</p>
 
 ---
 
 ## 👋 About Us
 
-We are the **Theoretical and Computational Chemistry (QTEC)** research group at the [University of Santiago de Compostela (USC)](https://www.usc.es), Spain. Our work sits at the intersection of **physical chemistry**, **quantum mechanics**, and **computational methods** to understand chemical reactivity, molecular structure, and dynamics at a fundamental level.
+We are the **Theoretical and Computational Chemistry (QTEC)** research group at the 
+<a href="https://www.usc.es">University of Santiago de Compostela (USC)</a>, Spain. 
+
+Our work sits at the intersection of **physical chemistry**, **quantum mechanics**, 
+and **computational methods** to understand chemical reactivity, molecular structure, 
+and dynamics at a fundamental level.
 
 🌐 **Website:** [computchem.gal](https://computchem.gal)
 
